@@ -12,5 +12,4 @@
 <h6>Blender</h6>
 <h6>Echo3D</h6>
 <h1>Screenshots of application</h1>
-![Alt text](https://user-images.githubusercontent.com/69580458/201112986-35cff0bc-9888-490f-8d71-ab9c991bd216.jpg)
-
+![Front_End](https://user-images.githubusercontent.com/69580458/201114638-6e6f8342-1cac-4f9d-98c8-4710395b5922.png)
