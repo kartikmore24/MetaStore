@@ -12,7 +12,5 @@
 <h6>Blender</h6>
 <h6>Echo3D</h6>
 <h1>Screenshots of application</h1>
-![Screenshot 2022-11-10 190121](https://user-images.githubusercontent.com/69580458/201110643-ebba1757-031d-47f3-b930-92e3c9684fd2.png)
-
-
+![Screenshot 2022-11-10 190121](https://user-images.githubusercontent.com/69580458/201111364-a424fb86-3a00-47af-b58c-762e0b9dfc8d.png)
 
