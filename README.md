@@ -20,3 +20,5 @@
 ![Capture1](https://github.com/kartikmore24/MetaStore/assets/69580458/fe56570d-97ed-4592-a6fe-f2e10165b6c2)
 
 ![Capture2](https://github.com/kartikmore24/MetaStore/assets/69580458/b004b951-4a9a-4c40-9fb0-92aba344ae76)
+
+![Capture3](https://github.com/kartikmore24/MetaStore/assets/69580458/03919f2d-199a-4c61-9390-e3b5f5f52482)
