@@ -16,3 +16,4 @@
 
 # Screenshots
 ![Capture](https://github.com/kartikmore24/MetaStore/assets/69580458/f383eaff-6e2d-4aeb-8fa2-6aa5e4b3f682)
+![Capture1](https://github.com/kartikmore24/MetaStore/assets/69580458/fe56570d-97ed-4592-a6fe-f2e10165b6c2)
